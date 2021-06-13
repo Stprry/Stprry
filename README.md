@@ -1,3 +1,4 @@
+[![MasterHead](https://imgur.com/a/Lhxr1qI)](https://github.com/Stprry/Stprry/edit/main/README.md)
 ### Hi there 👋
 
 <!--
