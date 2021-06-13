@@ -1,6 +1,6 @@
 [![Header](https://github.com/Stprry/Stprry/blob/main/readme_header.png "Header")](https://github.com/Stprry)
 
-# Sup, I'm Sam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!--# Sup, I'm Sam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Stprry&theme=shades-of-purple&hide_border=true&fire=00F1FF&background=9B00E8&stroke=00F1FF&currStreakLabel=FF019A&ring=FF019A&border=00F1FF&sideLabels=FF30E6&currStreakNum=00F1FF&dates=00F1FF)](https://git.io/streak-stats)
 
