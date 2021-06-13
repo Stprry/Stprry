@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Stprry/<OWNER>/<OWNER>/readme_header.png "Header")](https://github.com/Stprry)
+[![Header](https://github.com/Stprry/Stprry/blob/main/readme_header.png "Header")](https://github.com/Stprry)
 
 # Sup, I'm Sam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
