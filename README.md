@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/a/eVXiZ3b)](https://github.com/Stprry/)
+[![MasterHead](https://imgur.com/a/eVXiZ3b)](https://github.com/Stprry/Stprry)
 
 
 <p align="left"> <a href="https://twitter.com/stprry" target="blank"><img src="https://img.shields.io/twitter/follow/stprry?logo=twitter&style=for-the-badge" alt="stprry" /></a> </p>
