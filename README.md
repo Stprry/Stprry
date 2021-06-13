@@ -1,11 +1,13 @@
-[![MasterHead](https://imgur.com/a/eVXiZ3b)](https://github.com/Stprry/Stprry)
+[![Header](https://imgur.com/a/eVXiZ3b "Header")](https://github.com/Stprry/Stprry/)
 
+# Sup, I'm Sam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="left"> <a href="https://twitter.com/stprry" target="blank"><img src="https://img.shields.io/twitter/follow/stprry?logo=twitter&style=for-the-badge" alt="stprry" /></a> </p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Stprry&theme=shades-of-purple&hide_border=true&fire=00F1FF&background=9B00E8&stroke=00F1FF&currStreakLabel=FF019A&ring=FF019A&border=00F1FF&sideLabels=FF30E6&currStreakNum=00F1FF&dates=00F1FF)](https://git.io/streak-stats)
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1112659324)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Stprry&theme=shades-of-purple&hide_border=true&fire=00F1FF&background=9B00E8&stroke=00F1FF&currStreakLabel=FF019A&ring=FF019A&border=00F1FF&sideLabels=FF30E6&currStreakNum=00F1FF&dates=00F1FF)](https://git.io/streak-stats)
+<p align="left"> <a href="https://twitter.com/stprry" target="blank"><img src="https://img.shields.io/twitter/follow/stprry?logo=twitter&style=for-the-badge" alt="stprry" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
