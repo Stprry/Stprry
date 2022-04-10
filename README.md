@@ -1,7 +1,3 @@
-[![Header](https://github.com/Stprry/Stprry/blob/main/readme_header.png "Header")](https://github.com/Stprry)
-
-<!--# Sup, I'm Sam <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">-->
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Stprry&theme=shades-of-purple&hide_border=true&fire=00F1FF&background=9B00E8&stroke=00F1FF&currStreakLabel=FF019A&ring=FF019A&border=00F1FF&sideLabels=FF30E6&currStreakNum=00F1FF&dates=00F1FF)](https://git.io/streak-stats)
 
 
@@ -14,7 +10,7 @@
 <a href="https://dev.to/stprry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="stprry" height="30" width="40" /></a>
 <a href="https://twitter.com/stprry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stprry" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sam-perry-1b4493162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam-perry-1b4493162" height="30" width="40" /></a>
-<a href="https://instagram.com/stperry96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stperry96" height="30" width="40" /></a>
+<a href="https://instagram.com/softwarestrongman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stperry96" height="30" width="40" /></a>
 </p>
 
 <!--
