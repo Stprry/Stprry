@@ -5,9 +5,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/stprry" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="stprry" height="30" width="40" /></a>
-<a href="https://twitter.com/stprry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stprry" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sam-perry-1b4493162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam-perry-1b4493162" height="30" width="40" /></a>
-<a href="https://instagram.com/softwarestrongman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stperry96" height="30" width="40" /></a>
+<a href="https://instagram.com/tastefully_bored" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stperry96" height="30" width="40" /></a>
 </p>
 
 <!--
