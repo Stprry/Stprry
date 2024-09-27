@@ -1,6 +1,6 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1112659324)
 
-<p align="left"> <a href="https://twitter.com/stprry" target="blank"><img src="https://img.shields.io/twitter/follow/stprry?logo=twitter&style=for-the-badge" alt="stprry" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/stprry" target="blank"><img src="https://img.shields.io/twitter/follow/stprry?logo=twitter&style=for-the-badge" alt="stprry" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
